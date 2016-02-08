@@ -1,2 +1,2 @@
 # hello-world
-My first gut-repository!
+My first git-repository!
